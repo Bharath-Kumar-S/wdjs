@@ -37,7 +37,7 @@
     "allure-commandline": "^2.13.0",
     "assert": "^1.4.1",
     "junit-viewer": "^4.11.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "node-excel-to-json": "0.0.3",
     "underscore": "^1.8.3",
     "webdriverio": "^5.16.7"
